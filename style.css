@@ -1,0 +1,57 @@
+#{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.nav{
+    float: right;
+    text-decoration: none;
+    padding: 25px 36px;
+    word-spacing: 75px;
+    font-size: 24px;
+    font-weight: 400px;
+
+}
+
+.nav a{
+    color: aqua;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.logo{
+    float: right;
+}
+
+.header{
+    padding-top: 195px;
+    font-size: xx-large;
+    color: yellow;
+    text-shadow: 4px 4px 4px blue;
+    
+}
+
+.para{
+    padding: 25px 36px;
+    width: 850px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+}
+
+.btn{
+    padding: 5px;
+    margin: 5px;
+    background: none;
+    
+    padding: 25px 36px;
+
+}
+
+.footer{
+
+    font-size: large;
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+}
